@@ -11,7 +11,7 @@ const Section = () => {
         actividades que no sean jugar a los videojuegos es porque...
       </p>
 
-      <ol className="my-6 list-inside list-decimal space-y-1 pl-5 text-gray-500 dark:text-gray-400">
+      <ol className="my-6 list-inside list-decimal space-y-1 pl-5 text-gray-500">
         <li>Piensan que no van a sentirse entendidos en otros entornos</li>
         <li>
           La falta de vitamina D y naturaleza, hace que cada vez se sientan más
