@@ -16,14 +16,14 @@ const Testimonials = () => {
               </div>
               <div className="w-full">
                 <p className="text-base text-gray-500">
-                  <span className="mr-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                   El windsurf es tu vida y se lo sabes transmitir a los niños.
                   Antepones tu dedicación a cualquier interés económico, y eso
                   hace una gran diferencia.
-                  <span className="ml-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                 </p>
               </div>
@@ -36,14 +36,14 @@ const Testimonials = () => {
 
               <div className="w-full">
                 <p className="text-base text-gray-500">
-                  <span className="mr-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                   Estamos muy contentos viendo el avance que están teniendo
                   nuestros hijos en las clases y además, ellos disfrutan al
                   mismo tiempo
-                  <span className="ml-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                 </p>
               </div>
@@ -58,15 +58,15 @@ const Testimonials = () => {
 
               <div className="w-full">
                 <p className="text-base text-gray-500">
-                  <span className="mr-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                   Se te ve un tipo humilde, y eso a nosotros nos gusta. Además
                   demuestras profesionalidad y responsabilidad, nos das
                   confianza, vemos que no solo quieres que se lo pasen bien,
                   sino que a la vez aprendan
-                  <span className="ml-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                 </p>
               </div>
@@ -80,14 +80,14 @@ const Testimonials = () => {
               </div>
               <div className="w-full">
                 <p className="text-base text-gray-500">
-                  <span className="mr-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                   Lo que más me gusta es la capacidad que tienes de adaptarte a
                   las necesidades de cada niño, además de tu cercanía,
                   flexibilidad y compromiso.
-                  <span className="ml-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                 </p>
               </div>
@@ -102,14 +102,14 @@ const Testimonials = () => {
 
               <div className="w-full">
                 <p className="text-base text-gray-500">
-                  <span className="mr-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                   Me encanta tu buen rollo, el buen hacer y las ganas que tienes
                   por seguir mejorando. Para nosotros ha sido una experiencia
                   fantástica el iniciar a nuestra hija en tus clases.
-                  <span className="ml-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                 </p>
               </div>
@@ -122,14 +122,14 @@ const Testimonials = () => {
 
               <div className="w-full">
                 <p className="text-base text-gray-500">
-                  <span className="mr-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                   Agradezco el compromiso que tienes y eso se ve reflejado en tu
                   puntualidad, formalidad y la manera que tienes de gestionar
                   las clases
-                  <span className="ml-1 text-lg font-bold italic leading-none text-gray-400">
-                    "
+                  <span className="text-lg leading-none text-gray-400">
+                    &quot;
                   </span>
                 </p>
               </div>
