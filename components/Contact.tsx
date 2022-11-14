@@ -28,8 +28,8 @@ const Contact = () => {
     e.preventDefault();
 
     await sendEvent({
-      project: "pole-pole",
-      channel: "contact",
+      project: process.env.NEXT_PUBLIC_LOGSNAG_POLE_POLE_PROJECT!,
+      channel: process.env.NEXT_PUBLIC_LOGSNAG_CONTACT_CHANNEL!,
       title: contactForm.name,
       message: contactForm.lastName,
       icon: "💬",
