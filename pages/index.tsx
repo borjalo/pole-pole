@@ -2,6 +2,7 @@ import Contact from "components/Contact";
 import Differences from "components/Differences";
 import Divider from "components/Divider";
 import Faq from "components/Faq";
+import Footer from "components/Footer";
 import HeroCard from "components/HeroCard";
 import Navbar from "components/Navbar";
 import Section from "components/Section";
@@ -45,6 +46,10 @@ export default function HomePage() {
       <Faq />
 
       <Contact />
+
+      <Divider />
+
+      <Footer />
     </div>
   );
 }

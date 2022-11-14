@@ -200,7 +200,7 @@ const Contact = () => {
                     Edades de las personas interesadas
                   </legend>
 
-                  <div className="mt-4 grid grid-cols-3 gap-y-4">
+                  <div className="mt-4 grid grid-cols-1 gap-y-4 md:grid-cols-3">
                     <div className="flex items-center">
                       <input
                         id="8-12"
@@ -289,7 +289,7 @@ const Contact = () => {
                     Actividades en las que están interesados
                   </legend>
 
-                  <div className="mt-4 grid grid-cols-2 gap-y-4">
+                  <div className="mt-4 grid grid-cols-1 gap-y-4 md:grid-cols-2">
                     <div className="flex items-center">
                       <input
                         id="windsurf"
