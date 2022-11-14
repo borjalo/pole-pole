@@ -420,6 +420,7 @@ const Contact = () => {
           </div>
 
           <img
+            loading="lazy"
             className="hidden object-cover shadow-xl sm:rounded-2xl lg:block lg:h-full"
             src="/images/sup-group.jpeg"
             alt=""

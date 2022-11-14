@@ -69,6 +69,7 @@ const Why = () => {
 
         <div className="shadow-xl sm:overflow-hidden sm:rounded-2xl">
           <img
+            loading="lazy"
             className="h-full w-full object-cover"
             src={WhyImage.src}
             alt="Skating in the park"

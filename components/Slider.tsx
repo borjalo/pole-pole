@@ -61,6 +61,7 @@ const Slider = () => {
         {images.map((image) => (
           <SwiperSlide key={image} className="rounded-2xl">
             <img
+              loading="lazy"
               src={image}
               className="h-full w-full rounded-2xl object-cover"
             />
