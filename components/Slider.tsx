@@ -12,6 +12,7 @@ import Sup2 from "public/images/sup3.jpg";
 import Sup3 from "public/images/sup4.jpg";
 import SupGroup from "public/images/sup-group.jpeg";
 import Efoil from "public/images/efoil.jpg";
+import Image from "next/image";
 
 const Slider = () => {
   const images = [
@@ -60,10 +61,11 @@ const Slider = () => {
       >
         {images.map((image) => (
           <SwiperSlide key={image} className="rounded-2xl">
-            <img
-              loading="lazy"
+            <Image
               src={image}
-              className="h-full w-full rounded-2xl object-cover"
+              className="rounded-2xl object-cover"
+              alt={image}
+              fill
             />
           </SwiperSlide>
         ))}

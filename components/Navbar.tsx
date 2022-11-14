@@ -4,12 +4,12 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 z-20 w-full border-b border-gray-200 bg-white px-2 py-4 dark:border-gray-600 dark:bg-gray-900 sm:px-4">
       <div className="container mx-auto flex max-w-7xl flex-wrap items-center justify-between px-4 sm:px-6 lg:px-8">
-        <a href="https://flowbite.com/" className="flex items-center">
+        <a href="/" className="flex items-center">
           <img
             src={logo.src}
             className="-ml-7 mr-3 h-10 w-40 object-cover"
             alt="Pole Pole Logo"
-          ></img>
+          />
         </a>
 
         <div className="flex md:order-2">

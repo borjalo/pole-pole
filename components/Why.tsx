@@ -1,4 +1,5 @@
 import { CheckIcon } from "@heroicons/react/20/solid";
+import Image from "next/image";
 import WhyImage from "public/images/why.jpg";
 
 const features = [
@@ -67,12 +68,12 @@ const Why = () => {
           </dl>
         </div>
 
-        <div className="shadow-xl sm:overflow-hidden sm:rounded-2xl">
-          <img
-            loading="lazy"
-            className="h-full w-full object-cover"
+        <div className="relative shadow-xl sm:overflow-hidden sm:rounded-2xl">
+          <Image
+            className="object-cover"
             src={WhyImage.src}
             alt="Skating in the park"
+            fill
           />
         </div>
       </div>

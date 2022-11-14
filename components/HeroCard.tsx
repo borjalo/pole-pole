@@ -1,3 +1,4 @@
+import Image from "next/image";
 import HeroImage from "public/images/hero-image.jpg";
 
 const HeroCard = () => {
@@ -6,10 +7,11 @@ const HeroCard = () => {
       <div className="mx-auto max-w-7xl sm:px-6 lg:px-8">
         <div className="relative shadow-xl sm:overflow-hidden sm:rounded-2xl">
           <div className="absolute inset-0">
-            <img
-              className="h-full w-full object-cover"
+            <Image
+              className="object-cover"
               src={HeroImage.src}
               alt="Skating in the park"
+              fill
             />
             <div className="absolute inset-0 bg-gray-300 mix-blend-multiply" />
           </div>

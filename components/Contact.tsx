@@ -1,4 +1,5 @@
 import { CheckIcon } from "@heroicons/react/24/outline";
+import Image from "next/image";
 import { FormEvent, useState } from "react";
 import { sendEvent } from "services/events";
 import BasicDialog from "./dialogs/BasicDialog";
@@ -419,12 +420,14 @@ const Contact = () => {
             </div>
           </div>
 
-          <img
-            loading="lazy"
-            className="hidden object-cover shadow-xl sm:rounded-2xl lg:block lg:h-full"
-            src="/images/sup-group.jpeg"
-            alt=""
-          />
+          <div className="relative">
+            <Image
+              className="hidden object-cover shadow-xl sm:rounded-2xl lg:block lg:h-full"
+              src="/images/sup-group.jpeg"
+              alt=""
+              fill
+            />
+          </div>
         </div>
       </div>
     </>
