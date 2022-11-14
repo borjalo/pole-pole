@@ -19,9 +19,9 @@ const Testimonials = () => {
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
-                  El windsurf es tu vida y se lo sabes transmitir a los niños.
-                  Antepones tu dedicación a cualquier interés económico, y eso
-                  hace una gran diferencia.
+                  El windsurf es vuestra vida y se lo sabéis transmitir a los
+                  niños. Anteponéis vuestra dedicación a cualquier interés
+                  económico, y eso hace una gran diferencia.
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
@@ -40,7 +40,7 @@ const Testimonials = () => {
                     &quot;
                   </span>
                   Estamos muy contentos viendo el avance que están teniendo
-                  nuestros hijos en las clases y además, ellos disfrutan al
+                  nuestros hijos en las clases y, además, ellos disfrutan al
                   mismo tiempo
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
@@ -61,10 +61,10 @@ const Testimonials = () => {
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
-                  Se te ve un tipo humilde, y eso a nosotros nos gusta. Además
-                  demuestras profesionalidad y responsabilidad, nos das
-                  confianza, vemos que no solo quieres que se lo pasen bien,
-                  sino que a la vez aprendan
+                  Se os ve un equipo humilde, y eso a nosotros nos gusta. Además
+                  demostráis profesionalidad y responsabilidad, nos dais
+                  confianza, vemos que no solo queréis que se lo pasen bien,
+                  sino que a la vez aprendan.
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
@@ -83,8 +83,8 @@ const Testimonials = () => {
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
-                  Lo que más me gusta es la capacidad que tienes de adaptarte a
-                  las necesidades de cada niño, además de tu cercanía,
+                  Lo que más me gusta es la capacidad que tenéis de adaptaros a
+                  las necesidades de cada niño, además de vuestra cercanía,
                   flexibilidad y compromiso.
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
@@ -105,9 +105,10 @@ const Testimonials = () => {
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
-                  Me encanta tu buen rollo, el buen hacer y las ganas que tienes
-                  por seguir mejorando. Para nosotros ha sido una experiencia
-                  fantástica el iniciar a nuestra hija en tus clases.
+                  Me encanta vuestro buen rollo, el buen hacer y las ganas que
+                  tenéis por seguir mejorando. Para nosotros ha sido una
+                  experiencia fantástica el iniciar a nuestra hija en vuestras
+                  clases.
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
@@ -125,9 +126,9 @@ const Testimonials = () => {
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>
-                  Agradezco el compromiso que tienes y eso se ve reflejado en tu
-                  puntualidad, formalidad y la manera que tienes de gestionar
-                  las clases
+                  Agradezco el compromiso que tenéis y eso se ve reflejado en
+                  vuestra puntualidad, formalidad y la manera que tenéis de
+                  gestionar las clases
                   <span className="text-lg leading-none text-gray-400">
                     &quot;
                   </span>

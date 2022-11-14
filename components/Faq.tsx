@@ -25,7 +25,7 @@ const faqs = [
   {
     question: "¿Tienes algún tipo de experiencia?",
     answer:
-      "Sí, llevo dedicándome a esto toda mi vida. Tanto a nivel personal como profesionalmente trabajando en campamentos de verano y formaciones.",
+      "Sí, llevamos dedicándonos a esto toda mi vida. Tanto a nivel personal como profesional, trabajando en campamentos de verano y formaciones.",
   },
   {
     question: "¿Van a estar lo niños controlados en cada momento?",
