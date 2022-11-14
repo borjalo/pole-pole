@@ -48,7 +48,10 @@ const faqs = [
   },
   {
     question: "¿Cuánto dura el curso?",
-    answer: "Un fin de semana completo.",
+    answer:
+      "De septiembre a junio: escogemos días sueltos los fines de semana y nos adaptamos en horario y actividad a las condiciones meteorológicas.",
+    answer_2:
+      "De junio a agosto: estamos trabajando en ello. Os avisaremos cuando abramos plazas.",
   },
   {
     question: "¿Qué perfil de personas sacarán más partido de esta formación?",
@@ -92,6 +95,7 @@ const Faq = () => {
                   </dt>
                   <Disclosure.Panel as="dd" className="mt-2 pr-12">
                     <p className="text-base text-gray-500">{faq.answer}</p>
+                    <p className="text-base text-gray-500">{faq.answer_2}</p>
                   </Disclosure.Panel>
                 </>
               )}
